@@ -1,0 +1,86 @@
+
+.block{ 
+    margin: 100px ; 
+    text-align: center; 
+}
+/* курсор */
+.blocks {
+    width: 500px;
+    height: 500px; 
+    border: 10px solid rgb(38, 29, 80);
+    margin: 40px auto; 
+    text-align: center; 
+    line-height: 150px; 
+    font-size: 20px; 
+    font-family: sans-serif; 
+}
+
+.coords {
+    width: 180px; 
+    border: 10px solid rgb(53, 41, 81); 
+    margin: 10px auto; 
+       padding: 10px; 
+      font-size: 30px; 
+    font-weight: 700; 
+    font-family: 'Arial Narrow Bold', sans-serif; 
+}
+/* светофор */
+body{
+    padding: 0;
+    margin: 0;
+}
+.block__sveto{
+    margin: 50px auto;
+    width: 200px;
+    height: 410px;
+    border: solid black 2px;
+    background: rgb(75, 72, 72);
+
+}
+#red{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    /* background: red; */
+    border: solid rgb(189, 39, 5) 2px;
+    margin:10px 40px ;
+    
+}
+#yellow{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    /* background: rgb(255, 208, 0); */
+    border: solid rgb(239, 236, 27) 2px;
+    margin-left: 40px;
+}
+#green{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    /* background: rgb(30, 255, 0); */
+    border: solid green 2px;
+    margin:10px 40px;
+}
+.btn{
+    margin: 0 auto;
+    text-align: center;
+}
+#red_btn{
+    width: 70px;
+    height: 30px;
+}
+#yellow_btn{
+    width: 70px;
+    height: 30px;
+}
+#green_btn{
+    width: 70px;
+    height: 30px;
+}
+h1{
+    text-align: center;
+}
+.button{
+    text-align: center;
+}
