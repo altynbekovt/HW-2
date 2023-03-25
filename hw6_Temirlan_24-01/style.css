@@ -1,0 +1,17 @@
+ *{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 20px;
+    background-color: #baa9a9    ;
+}
+input{
+    border: 2px solid teal;
+    font-size: 20px;
+    height: 40px;
+    width: 500px;
+    padding-left: 5px;
+}
+
