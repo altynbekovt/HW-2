@@ -1,0 +1,74 @@
+{
+    "result": [
+      {
+        "img": "./images/01.jpg",
+        "price": "44500 сом",
+        "delivery": "16-19 февраля",
+        "name": "Nintendo · Switch OLED 64",
+        "review": "★5 · 1 отзыв"
+      },
+      {
+        "img": "./images/01.jpg",
+        "price": "33500 сом",
+        "delivery": "1-5 январь",
+        "name": "Nintendo · Switch",
+        "review": "★Нет отзывов·Новинка"
+      },
+      {
+        "img": "./images/2.jpп",
+        "price": "22 500 сом",
+        "delivery": "6-8 февраля",
+        "name": "Nintendo · Игровая приставка",
+        "review": "★4 · 12 отзывов"
+      },
+      {
+        "img": "./images/3.jpg",
+        "price": "25 500 сом",
+        "delivery": "4-6 марта",
+        "name": "Nintendo · Mario Kart Live ",
+        "review": "★Нет отзывов"
+      },
+      {
+        "img": "./images/4.jpg",
+        "price": "21500 сом",
+        "delivery": "2-6 марта",
+        "name": "Nintendo · Switch Lite",
+        "review": "★Нет отзывов"
+      } ,   
+       {
+        "img": "./images/5.jpg",
+        "price": "26 500 сом",
+        "delivery": "4-4 февраля",
+        "name": "Nin· Switch Lite",
+        "review": "★Нет отзывов"
+      },   
+       {
+        "img": "./images/07.jpg",
+        "price": "99 599 сом",
+        "delivery": "4-4 февраля",
+        "name": "Nin· Switch Lite",
+        "review": "★Нет отзывов"
+      },   
+       {
+        "img": "./images/6.jpg",
+        "price": "11 257 сом",
+        "delivery": "4-4 февраля",
+        "name": "Nin· Switch Lite",
+        "review": "★Нет отзывов"
+      },   
+       {
+        "img": "./images/09.jpg",
+        "price": "29500 сом",
+        "delivery": "4-4 февраля",
+        "name": "Nin· Switch Lite",
+        "review": "★Нет отзывов"
+      },   
+       {
+        "img": "./images/06.jpg",
+        "price": "21 500 сом",
+        "delivery": "4-4 февраля",
+        "name": "Nin· Switch Lite",
+        "review": "★5 отзывов"
+      }
+    ]
+  }
